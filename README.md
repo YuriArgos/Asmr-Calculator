@@ -2,6 +2,5 @@
 
 https://yuriargos.github.io/Asmr-Calculator/
 
-# Tecnologias Utilizadas
-## Front End
-HTML / CSS / JavaScript
+# Tecnologias Utilizadas:
+## HTML / CSS / JavaScript
