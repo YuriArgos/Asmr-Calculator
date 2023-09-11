@@ -1,4 +1,4 @@
-# Asmr-Calculator - The Aesthetic Calculator
+# ASMR-Calculator - The Aesthetic Calculator
 
 ### Link:
 
