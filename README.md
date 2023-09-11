@@ -1,10 +1,8 @@
-# Asmr-Calculator
+# Asmr-Calculator - The Aesthetic Calculator
 
 ### Link:
 
 https://yuriargos.github.io/Asmr-Calculator/
-
-## Title: ASMR-Calculator - The Aesthetic Calculator
 
 ## Description:
 ASMR-Calculator is not just your ordinary calculator; it's an extraordinary fusion of functionality and aesthetics. <br>
